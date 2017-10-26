@@ -4,15 +4,13 @@ Example for [loopback-component-storage](https://github.com/strongloop/loopback-
 
 This repository contains three directories: 
 
-- `example-3.0` - the LoopBack 3.0 app.  Use this if you're using the current version (3.x) of LoopBack.
-- `example-2.0` - the legacy LoopBack 2.x app.
-- `example` - the legacy LoopBack 1.x app.  
+- `fileupload-example` - the legacy LoopBack 2.x app.
 
 Follow these steps to run the example:
 
 ```
-$ git clone https://github.com/strongloop/loopback-example-storage.git
-$ cd loopback-example-storage/example-3.0
+$ git clone https://github.com/pravin3/loopback-fileupload-example.git
+$ cd loopback-fileupload-example
 $ npm install
 $ node .
 ```
