@@ -2,7 +2,7 @@
 
 Example for [loopback-component-storage](https://github.com/strongloop/loopback-component-storage).
 
-This repository contains three directories: 
+This repository contains one directories: 
 
 - `fileupload-example` - the legacy LoopBack 2.x app.
 
