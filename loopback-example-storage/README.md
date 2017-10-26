@@ -10,7 +10,7 @@ Follow these steps to run the example:
 
 ```
 $ git clone https://github.com/pravin3/loopback-fileupload-example.git
-$ cd loopback-fileupload-example
+$ cd loopback-fileupload-example/loopback-example-storage/fileupload-example
 $ npm install
 $ node .
 ```
